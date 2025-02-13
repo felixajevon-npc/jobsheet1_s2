@@ -37,7 +37,7 @@ public class Kubus08 {
             System.out.print("Masukkan panjang rusuk kubus: ");
             double rusuk08 = scanner08.nextDouble();
             scanner08.nextLine();
-
+ 
             switch (pilihan08) {
                 case 1:
                     double volume08 = hitungVolumeKubus08(rusuk08);

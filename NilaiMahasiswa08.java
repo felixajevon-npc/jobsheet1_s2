@@ -8,7 +8,7 @@ public class NilaiMahasiswa08 {
         double nilaiTugas08 = scanner08.nextDouble();
         System.out.print("Masukkan nilai Kuis (0-100): ");
         double nilaiKuis08 = scanner08.nextDouble();
-        System.out.print("Masukkan nilai UTS (0-100): ");
+        System.out.print("Masukkan nilai UTS (0-100): "); 
         double nilaiUTS08 = scanner08.nextDouble();
         System.out.print("Masukkan nilai UAS (0-100): ");
         double nilaiUAS08 = scanner08.nextDouble();

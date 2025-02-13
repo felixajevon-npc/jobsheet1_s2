@@ -12,7 +12,7 @@ public class DeretBilangan08 {
 
         if (n08 < 10) {
             n08 += 10;
-        }
+        } 
 
         System.out.print("OUTPUT : ");
         for (int i08 = 1; i08 <= n08; i08++) {

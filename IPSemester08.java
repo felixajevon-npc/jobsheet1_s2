@@ -14,7 +14,7 @@ public class IPSemester08 {
                 "Dasar Pemrograman",
                 "Bahasa Inggris Dasar",
                 "Matematika Dasar"
-        };
+        }; 
 
         int[] sksMataKuliah08 = { 2, 2, 2, 2, 3, 2, 2, 2, 2 };
 

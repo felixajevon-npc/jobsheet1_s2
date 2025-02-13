@@ -9,7 +9,7 @@ public class RoyalGarden08 {
     static int[] hargaBunga08 = { 75000, 50000, 60000, 10000 };
 
     static int[] penguranganStock08 = { 1, 2, 0, 5 };
-
+ 
     public static void hitungPendapatan08() {
         System.out.println("Pendapatan setiap cabang jika semua bunga habis terjual:");
 

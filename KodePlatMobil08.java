@@ -17,7 +17,7 @@ public class KodePlatMobil08 {
                 { "L", "Surabaya" },
                 { "N", "Malang" },
                 { "T", "Tegal" }
-        };
+        }; 
 
         System.out.println("Daftar Kode Plat Mobil:");
         for (int i = 0; i < kodePlat08.length; i++) {
